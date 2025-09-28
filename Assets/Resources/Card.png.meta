@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CuteCardsPixel_0
+      name: card-1-1
       rect:
         serializedVersion: 2
         x: 1
@@ -119,7 +119,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_1
+      name: card-1-2
       rect:
         serializedVersion: 2
         x: 26
@@ -141,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_2
+      name: card-1-3
       rect:
         serializedVersion: 2
         x: 51
@@ -163,7 +163,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_3
+      name: card-1-4
       rect:
         serializedVersion: 2
         x: 76
@@ -185,7 +185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_4
+      name: card-1-5
       rect:
         serializedVersion: 2
         x: 101
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_5
+      name: card-1-6
       rect:
         serializedVersion: 2
         x: 126
@@ -251,7 +251,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_7
+      name: card-1-8
       rect:
         serializedVersion: 2
         x: 176
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_8
+      name: card-1-9
       rect:
         serializedVersion: 2
         x: 201
@@ -295,7 +295,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_9
+      name: card-1-10
       rect:
         serializedVersion: 2
         x: 226
@@ -317,7 +317,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_10
+      name: card-1-11
       rect:
         serializedVersion: 2
         x: 251
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_11
+      name: card-1-12
       rect:
         serializedVersion: 2
         x: 276
@@ -361,7 +361,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_12
+      name: card-1-13
       rect:
         serializedVersion: 2
         x: 301
@@ -405,7 +405,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_14
+      name: card-back
       rect:
         serializedVersion: 2
         x: 351
@@ -427,7 +427,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_15
+      name: card-2-1
       rect:
         serializedVersion: 2
         x: 1
@@ -449,7 +449,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_16
+      name: card-2-2
       rect:
         serializedVersion: 2
         x: 26
@@ -471,7 +471,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_17
+      name: card-2-3
       rect:
         serializedVersion: 2
         x: 51
@@ -493,7 +493,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_18
+      name: card-2-4
       rect:
         serializedVersion: 2
         x: 76
@@ -515,7 +515,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_19
+      name: card-2-5
       rect:
         serializedVersion: 2
         x: 101
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_20
+      name: card-2-6
       rect:
         serializedVersion: 2
         x: 126
@@ -559,7 +559,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_21
+      name: card-2-7
       rect:
         serializedVersion: 2
         x: 151
@@ -581,7 +581,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_22
+      name: card-2-8
       rect:
         serializedVersion: 2
         x: 176
@@ -603,7 +603,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_23
+      name: card-2-9
       rect:
         serializedVersion: 2
         x: 201
@@ -625,7 +625,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_24
+      name: card-2-10
       rect:
         serializedVersion: 2
         x: 226
@@ -647,7 +647,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_25
+      name: card-2-11
       rect:
         serializedVersion: 2
         x: 251
@@ -669,7 +669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_26
+      name: card-2-12
       rect:
         serializedVersion: 2
         x: 276
@@ -691,7 +691,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_27
+      name: card-2-13
       rect:
         serializedVersion: 2
         x: 301
@@ -735,7 +735,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_29
+      name: card-unknown
       rect:
         serializedVersion: 2
         x: 351
@@ -757,7 +757,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_30
+      name: card-3-1
       rect:
         serializedVersion: 2
         x: 1
@@ -779,7 +779,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_31
+      name: card-3-2
       rect:
         serializedVersion: 2
         x: 26
@@ -801,7 +801,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_32
+      name: card-3-3
       rect:
         serializedVersion: 2
         x: 51
@@ -823,7 +823,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_33
+      name: card-3-4
       rect:
         serializedVersion: 2
         x: 76
@@ -845,7 +845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_34
+      name: card-3-5
       rect:
         serializedVersion: 2
         x: 101
@@ -867,7 +867,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_35
+      name: card-3-6
       rect:
         serializedVersion: 2
         x: 126
@@ -889,7 +889,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_36
+      name: card-3-7
       rect:
         serializedVersion: 2
         x: 151
@@ -911,7 +911,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_37
+      name: card-3-8
       rect:
         serializedVersion: 2
         x: 176
@@ -933,7 +933,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_38
+      name: card-3-9
       rect:
         serializedVersion: 2
         x: 201
@@ -955,7 +955,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_39
+      name: card-3-10
       rect:
         serializedVersion: 2
         x: 226
@@ -977,7 +977,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_40
+      name: card-3-11
       rect:
         serializedVersion: 2
         x: 251
@@ -999,7 +999,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_41
+      name: card-3-12
       rect:
         serializedVersion: 2
         x: 276
@@ -1021,7 +1021,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_42
+      name: card-3-13
       rect:
         serializedVersion: 2
         x: 301
@@ -1043,7 +1043,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_43
+      name: card-0-1
       rect:
         serializedVersion: 2
         x: 326
@@ -1087,7 +1087,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_45
+      name: card-4-1
       rect:
         serializedVersion: 2
         x: 1
@@ -1109,7 +1109,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_46
+      name: card-4-2
       rect:
         serializedVersion: 2
         x: 26
@@ -1131,7 +1131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_47
+      name: card-4-3
       rect:
         serializedVersion: 2
         x: 51
@@ -1153,7 +1153,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_48
+      name: card-4-4
       rect:
         serializedVersion: 2
         x: 76
@@ -1175,7 +1175,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_49
+      name: card-4-5
       rect:
         serializedVersion: 2
         x: 101
@@ -1197,7 +1197,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_50
+      name: card-4-6
       rect:
         serializedVersion: 2
         x: 126
@@ -1219,7 +1219,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_51
+      name: card-4-7
       rect:
         serializedVersion: 2
         x: 151
@@ -1241,7 +1241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_52
+      name: card-4-8
       rect:
         serializedVersion: 2
         x: 176
@@ -1263,7 +1263,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_53
+      name: card-4-9
       rect:
         serializedVersion: 2
         x: 201
@@ -1285,7 +1285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_54
+      name: card-4-10
       rect:
         serializedVersion: 2
         x: 226
@@ -1307,7 +1307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_55
+      name: card-4-11
       rect:
         serializedVersion: 2
         x: 251
@@ -1329,7 +1329,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_56
+      name: card-4-12
       rect:
         serializedVersion: 2
         x: 276
@@ -1351,7 +1351,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_57
+      name: card-4-13
       rect:
         serializedVersion: 2
         x: 301
@@ -1373,7 +1373,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CuteCardsPixel_58
+      name: card-0-2
       rect:
         serializedVersion: 2
         x: 326
@@ -1432,66 +1432,66 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      CuteCardsPixel_0: -2113017434
-      CuteCardsPixel_1: -2002645991
-      CuteCardsPixel_10: 1590000442
-      CuteCardsPixel_11: -2000125398
-      CuteCardsPixel_12: 1579413785
       CuteCardsPixel_13: -660418973
-      CuteCardsPixel_14: -137887279
-      CuteCardsPixel_15: 1794543180
-      CuteCardsPixel_16: -1343206830
-      CuteCardsPixel_17: -973467326
-      CuteCardsPixel_18: -816492869
-      CuteCardsPixel_19: 2083566387
-      CuteCardsPixel_2: -1791099063
-      CuteCardsPixel_20: -891018195
-      CuteCardsPixel_21: 2053188433
-      CuteCardsPixel_22: 1734532183
-      CuteCardsPixel_23: 1604220347
-      CuteCardsPixel_24: 353023847
-      CuteCardsPixel_25: 401881450
-      CuteCardsPixel_26: 929905446
-      CuteCardsPixel_27: 1251525078
       CuteCardsPixel_28: 811402439
-      CuteCardsPixel_29: 977988351
-      CuteCardsPixel_3: -481743599
-      CuteCardsPixel_30: 2078174536
-      CuteCardsPixel_31: 120982979
-      CuteCardsPixel_32: 1184532556
-      CuteCardsPixel_33: 857010617
-      CuteCardsPixel_34: 1098078598
-      CuteCardsPixel_35: 1096630044
-      CuteCardsPixel_36: -1505809185
-      CuteCardsPixel_37: -1978064867
-      CuteCardsPixel_38: 1053282039
-      CuteCardsPixel_39: -1613193604
-      CuteCardsPixel_4: 1223691437
-      CuteCardsPixel_40: 1789750525
-      CuteCardsPixel_41: -1569192294
-      CuteCardsPixel_42: 1552430724
-      CuteCardsPixel_43: 172826736
       CuteCardsPixel_44: 386786690
-      CuteCardsPixel_45: -1920270203
-      CuteCardsPixel_46: -2033016617
-      CuteCardsPixel_47: -1952235690
-      CuteCardsPixel_48: 1452371830
-      CuteCardsPixel_49: 1474247456
-      CuteCardsPixel_5: -742317517
-      CuteCardsPixel_50: -1937868727
-      CuteCardsPixel_51: -1453664104
-      CuteCardsPixel_52: -881824968
-      CuteCardsPixel_53: -172229326
-      CuteCardsPixel_54: -823082081
-      CuteCardsPixel_55: 709171930
-      CuteCardsPixel_56: -826017520
-      CuteCardsPixel_57: 1900690041
-      CuteCardsPixel_58: -1470122610
       CuteCardsPixel_59: -1834186882
       CuteCardsPixel_6: -1111439615
-      CuteCardsPixel_7: 1989768005
-      CuteCardsPixel_8: -860057382
-      CuteCardsPixel_9: -635835950
+      card-0-1: 172826736
+      card-0-2: -1470122610
+      card-1-1: -2113017434
+      card-1-10: -635835950
+      card-1-11: 1590000442
+      card-1-12: -2000125398
+      card-1-13: 1579413785
+      card-1-2: -2002645991
+      card-1-3: -1791099063
+      card-1-4: -481743599
+      card-1-5: 1223691437
+      card-1-6: -742317517
+      card-1-8: 1989768005
+      card-1-9: -860057382
+      card-2-1: 1794543180
+      card-2-10: 353023847
+      card-2-11: 401881450
+      card-2-12: 929905446
+      card-2-13: 1251525078
+      card-2-2: -1343206830
+      card-2-3: -973467326
+      card-2-4: -816492869
+      card-2-5: 2083566387
+      card-2-6: -891018195
+      card-2-7: 2053188433
+      card-2-8: 1734532183
+      card-2-9: 1604220347
+      card-3-1: 2078174536
+      card-3-10: -1613193604
+      card-3-11: 1789750525
+      card-3-12: -1569192294
+      card-3-13: 1552430724
+      card-3-2: 120982979
+      card-3-3: 1184532556
+      card-3-4: 857010617
+      card-3-5: 1098078598
+      card-3-6: 1096630044
+      card-3-7: -1505809185
+      card-3-8: -1978064867
+      card-3-9: 1053282039
+      card-4-1: -1920270203
+      card-4-10: -823082081
+      card-4-11: 709171930
+      card-4-12: -826017520
+      card-4-13: 1900690041
+      card-4-2: -2033016617
+      card-4-3: -1952235690
+      card-4-4: 1452371830
+      card-4-5: 1474247456
+      card-4-6: -1937868727
+      card-4-7: -1453664104
+      card-4-8: -881824968
+      card-4-9: -172229326
+      card-back: -137887279
+      card-unknown: 977988351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
